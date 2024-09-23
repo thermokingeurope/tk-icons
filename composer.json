@@ -1,0 +1,12 @@
+{
+  "name" : "thermokingeurope/tk-icons",
+  "description": "A Thermo King Icon Font Library in SASS",
+  "type": "package",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Kristoff Bertram",
+      "email": "email@kristoffbertram.be"
+    }
+  ]
+}
